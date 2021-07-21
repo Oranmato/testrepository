@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/yzc/esp/espproject/ledc_test/build/CMakeFiles/bootloader
+/home/yzc/esp/espproject/ledc_test/build/CMakeFiles/bootloader.rule
+/home/yzc/esp/espproject/ledc_test/build/CMakeFiles/bootloader-complete.rule
+/home/yzc/esp/espproject/ledc_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/yzc/esp/espproject/ledc_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/yzc/esp/espproject/ledc_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/yzc/esp/espproject/ledc_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/yzc/esp/espproject/ledc_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/yzc/esp/espproject/ledc_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/yzc/esp/espproject/ledc_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
