@@ -262,4 +262,7 @@ void app_main()
     free(exam);
     printf("mywork1!!!");
     printf("new\r\n");
+    printf("new\r\n");
+    printf("new\r\n");
+    printf("new\r\n");
 }
