@@ -263,6 +263,6 @@ void app_main()
     printf("mywork1!!!");
     printf("new\r\n");
     printf("new\r\n");
-    printf("new\r\n");
-    printf("new\r\n");
+    printf("new2\r\n");
+    printf("new3\r\n");
 }
