@@ -260,5 +260,5 @@ void app_main()
     // free(exam->a);
 	// free(exam->b);
     free(exam);
-    printf("new\r\n");
+    printf("new!!!!!!!!!!!!!!!!!\r\n");
 }
