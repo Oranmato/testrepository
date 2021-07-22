@@ -260,9 +260,5 @@ void app_main()
     // free(exam->a);
 	// free(exam->b);
     free(exam);
-    printf("mywork1!!!");
-    printf("new\r\n");
-    printf("new\r\n");
-    printf("new2\r\n");
-    printf("new3\r\n");
+    printf("new!!!!!!!!!!!!!!!!!\r\n");
 }
